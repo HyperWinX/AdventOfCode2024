@@ -6,8 +6,6 @@
 
 static constexpr int PAIR_AMOUNT = 1000;
 
-
-
 int main() {
   std::array<std::int32_t, PAIR_AMOUNT> a, b;
   std::chrono::high_resolution_clock clock;
